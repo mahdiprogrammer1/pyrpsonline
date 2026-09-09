@@ -16,7 +16,7 @@
 
 
 ```bash
-pip install tk
+pip3 install tk
 git clone https://github.com/mahdiprogrammer1/pyrpsonline.git
 cd pyrpsonline
 ```
